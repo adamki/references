@@ -7,3 +7,5 @@ https://github.com/bendc/frontend-guidelines
 https://github.com/dypsilon/frontend-dev-bookmarks
 
 https://github.com/sindresorhus/awesome#front-end-development
+
+http://udacity.github.io/frontend-nanodegree-styleguide/index.html
