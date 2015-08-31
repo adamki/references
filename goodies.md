@@ -23,3 +23,10 @@ http://ruby.bastardsbook.com/chapters/sql/
 http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html
 
 http://sql.learncodethehardway.org/book/
+
+
+## DB
+Schema designer: http://ondras.zarovi.cz/sql/demo/
+
+
+
