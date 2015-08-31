@@ -36,6 +36,7 @@ Schema designer: http://ondras.zarovi.cz/sql/demo/
 
 http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/#.VOIsu1PF9h6
 
+https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/
 
-
+http://www.millwoodonline.co.uk/blog/sinatra-activerecord-postgres-application
 
