@@ -17,7 +17,8 @@ https://balsamiq.com/
 
  
 
-## SQL
+## DB stuff
+
 https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown
 
 http://ruby.bastardsbook.com/chapters/sql/
@@ -28,6 +29,7 @@ http://sql.learncodethehardway.org/book/
 
 
 ## DB
+
 Schema designer: http://ondras.zarovi.cz/sql/demo/
 
 
