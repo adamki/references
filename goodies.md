@@ -32,6 +32,9 @@ http://sql.learncodethehardway.org/book/
 
 Schema designer: http://ondras.zarovi.cz/sql/demo/
 
+## Active Record
+
+http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/#.VOIsu1PF9h6
 
 
 
