@@ -10,6 +10,8 @@ https://github.com/sindresorhus/awesome#front-end-development
 
 http://udacity.github.io/frontend-nanodegree-styleguide/index.html
 
+https://balsamiq.com/
+
 ## Sequel
 
 
@@ -27,6 +29,8 @@ http://sql.learncodethehardway.org/book/
 
 ## DB
 Schema designer: http://ondras.zarovi.cz/sql/demo/
+
+
 
 
 
