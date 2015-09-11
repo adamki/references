@@ -40,3 +40,14 @@ https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-web
 
 http://www.millwoodonline.co.uk/blog/sinatra-activerecord-postgres-application
 
+
+
+## capybara
+Capybara CheatSheet
+https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf
+
+
+## rails testing
+
+guide to rails testing
+http://guides.rubyonrails.org/testing.html
