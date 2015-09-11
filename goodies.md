@@ -52,5 +52,7 @@ https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf
 guide to rails testing
 http://guides.rubyonrails.org/testing.html
 
-##Database cleaner basics by Avdi Grimm!
+##database cleaner
+https://github.com/DatabaseCleaner/database_cleaner
+more on DB cleaning by Avdi Grimm!
 http://devblog.avdi.org/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/
