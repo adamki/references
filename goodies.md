@@ -51,3 +51,6 @@ https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf
 
 guide to rails testing
 http://guides.rubyonrails.org/testing.html
+
+##Testing ENV and 
+http://devblog.avdi.org/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/
