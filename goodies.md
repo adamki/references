@@ -58,3 +58,6 @@ more on DB cleaning by Avdi Grimm!
 http://devblog.avdi.org/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/
 
 " the tests are being wrapped in database transactions, so any code running outside the actual test process (like, say, a server process servicing a Selenium-driven browser request) does not see the database fixture I’ve so carefully assembled." -Avdi
+
+#MORE RESOURCES AND LOTS OF COURSES!
+https://github.com/prakhar1989/awesome-courses
