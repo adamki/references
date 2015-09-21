@@ -12,6 +12,7 @@ http://udacity.github.io/frontend-nanodegree-styleguide/index.html
 
 https://balsamiq.com/
 
+https://medium.com/keep-learning-keep-growing/tools-for-web-designers-d49011ee08dc
 ## Sequel
 
 
