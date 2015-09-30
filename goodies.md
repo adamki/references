@@ -13,6 +13,8 @@ http://udacity.github.io/frontend-nanodegree-styleguide/index.html
 https://balsamiq.com/
 
 [list of freebies for front end](https://medium.com/keep-learning-keep-growing/tools-for-web-designers-d49011ee08dc)
+
+[logo design](http://www.designmantic.com/index8?gclid=CjwKEAjw-IOwBRD1wrTC27fSjFISJABUDZ17Lp5MadhDbgzAzMVkCt_mkV0fRqvT2u8_89wz0ETF1BoCp67w_wcB)
 ## Sequel
 
 
